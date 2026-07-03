@@ -1,6 +1,6 @@
 module github.com/doranych/adventofcode
 
-go 1.25
+go 1.25.0
 
 require github.com/jpillora/puzzler v1.3.3
 
@@ -12,7 +12,7 @@ require (
 	github.com/jpillora/ansi v1.0.3 // indirect
 	github.com/jpillora/maplock v0.0.0-20160420012925-5c725ac6e22a // indirect
 	github.com/maruel/panicparse/v2 v2.5.0 // indirect
-	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
